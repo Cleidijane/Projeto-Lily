@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: e475bc0802161d24f8eb317f3cebd9da
+timeCreated: 1499780631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elementos_cena_1_0
+    21300002: elementos_cena_1_1
+    21300004: elementos_cena_1_2
+    21300006: elementos_cena_1_3
+    21300008: elementos_cena_1_4
+    21300010: elementos_cena_1_5
+    21300012: elementos_cena_1_6
+    21300014: elementos_cena_1_7
+    21300016: elementos_cena_1_8
+    21300018: elementos_cena_1_9
+    21300020: elementos_cena_1_10
+    21300022: elementos_cena_1_11
+    21300024: elementos_cena_1_12
+    21300026: elementos_cena_1_13
+    21300028: elementos_cena_1_14
+    21300030: elementos_cena_1_15
+    21300032: elementos_cena_1_16
+    21300034: elementos_cena_1_17
+    21300036: elementos_cena_1_18
+    21300038: elementos_cena_1_19
+    21300040: elementos_cena_1_20
+    21300042: elementos_cena_1_21
+    21300044: elementos_cena_1_22
+    21300046: elementos_cena_1_23
+    21300048: elementos_cena_1_24
+    21300050: elementos_cena_1_25
+    21300052: elementos_cena_1_26
+    21300054: elementos_cena_1_27
+    21300056: elementos_cena_1_28
+    21300058: elementos_cena_1_29
+    21300060: elementos_cena_1_30
+    21300062: elementos_cena_1_31
+    21300064: elementos_cena_1_32
+    21300066: elementos_cena_1_33
+    21300068: elementos_cena_1_34
+    21300070: elementos_cena_1_35
+    21300072: elementos_cena_1_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elementos_cena_1_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2566
+        width: 282
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2545
+        width: 530
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_2
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2570
+        width: 130
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_3
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2575
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_4
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 2586
+        width: 159
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_5
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2600
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_6
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2452
+        width: 291
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 405
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1896
+        width: 478
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_9
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2089
+        width: 145
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_10
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1921
+        width: 528
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_11
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2188
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2086
+        width: 124
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_13
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1928
+        width: 523
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_14
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2118
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_15
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1882
+        width: 515
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_16
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1937
+        width: 129
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_17
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1935
+        width: 191
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_18
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1935
+        width: 266
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_19
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1935
+        width: 263
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1280
+        width: 552
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1227
+        width: 549
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_22
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1315
+        width: 425
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_23
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1402
+        width: 316
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_24
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1401
+        width: 209
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 721
+        width: 355
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 843
+        width: 157
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_27
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 807
+        width: 270
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_28
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 822
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_29
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 826
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 268
+        width: 290
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_31
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 136
+        width: 190
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_32
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 76
+        width: 973
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 116
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 98
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elementos_cena_1_36
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 24
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

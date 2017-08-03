@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 01b550e226377414887d200f170c0796
+timeCreated: 1501626422
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skranji
+  fontNames:
+  - Skranji
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

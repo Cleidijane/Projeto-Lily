@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 137582fbd64a88a45aa7512f6f7c5a95
+timeCreated: 1499874996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "bot\xF5es_0"
+    21300002: "bot\xF5es_1"
+    21300004: "bot\xF5es_2"
+    21300006: "bot\xF5es_3"
+    21300008: "bot\xF5es_4"
+    21300010: "bot\xF5es_5"
+    21300012: "bot\xF5es_6"
+    21300014: "bot\xF5es_7"
+    21300016: "bot\xF5es_8"
+    21300018: "bot\xF5es_9"
+    21300020: "bot\xF5es_10"
+    21300022: "bot\xF5es_11"
+    21300024: "bot\xF5es_12"
+    21300026: "bot\xF5es_13"
+    21300028: "bot\xF5es_14"
+    21300030: "bot\xF5es_15"
+    21300032: "bot\xF5es_16"
+    21300034: "bot\xF5es_17"
+    21300036: "bot\xF5es_18"
+    21300038: "bot\xF5es_19"
+    21300040: "bot\xF5es_20"
+    21300042: "bot\xF5es_21"
+    21300044: "bot\xF5es_22"
+    21300046: "bot\xF5es_23"
+    21300048: "bot\xF5es_24"
+    21300050: "bot\xF5es_25"
+    21300052: "bot\xF5es_26"
+    21300054: "bot\xF5es_27"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "bot\xF5es_0"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 155
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_1"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1710
+        width: 195
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_2"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1679
+        width: 559
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_3"
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1270
+        width: 394
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_4"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 840
+        width: 271
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_5"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1314
+        width: 558
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_6"
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 561
+        width: 271
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 269
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_8"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 944
+        width: 558
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 269
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_10"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 561
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_11"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 561
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_12"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 561
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_13"
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 561
+        width: 269
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 269
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_15"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 284
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_16"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 284
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_17"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 284
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_18"
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 284
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_19"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 284
+        width: 271
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_20"
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 284
+        width: 269
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 269
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_22"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 271
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_23"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 271
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_24"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 271
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_25"
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 271
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_26"
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 271
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "bot\xF5es_27"
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 269
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
